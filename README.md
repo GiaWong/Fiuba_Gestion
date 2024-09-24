@@ -1,11 +1,11 @@
 # Fiuba_Gestion
-Materia: Gestión del Desarrollo de Sistemas Informáticos 
+__Materia__: Gestión del Desarrollo de Sistemas Informáticos 
 
-Cátedra: Carlos Fontela
+__Cátedra__: Carlos Fontela
 
-Jefe de Tp: Marcelo Schenone
+__Jefe de Tp__: Marcelo Schenone
 
-Correctora para el Tp Grupal: Maria Pilar Gaddi 
+__Correctora para el Tp Grupal__: Maria Pilar Gaddi 
 
 
 ---
