@@ -7,7 +7,7 @@ Steve McConnell, “Software Estimation” (capítulo 1 "What Is An Estimate"): 
 Karl E. Wiegers, “Stop Promising Miracles”: [Enlace_Miracles](http://www.uml.org.cn/SoftWareProcess/pdf/delphi.pdf) 
 
 ---
-Bob Hartman, “An Introduction to Planning Poker”: [Enlace_Poker](https://dzone.com//articles/introduction-planning-poker)
+Bob Hartman, “An Introduction to Planning Poker”
 
 ---
 Allen Hollub, "#NoEstimates": [Enlace_No_Estimate](https://www.youtube.com/watch?v=QVBlnCTu9Ms) 
