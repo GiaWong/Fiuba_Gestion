@@ -12,4 +12,3 @@ Bob Hartman, “An Introduction to Planning Poker”
 ---
 Allen Hollub, "#NoEstimates": [Enlace_No_Estimate](https://www.youtube.com/watch?v=QVBlnCTu9Ms) 
 
---
