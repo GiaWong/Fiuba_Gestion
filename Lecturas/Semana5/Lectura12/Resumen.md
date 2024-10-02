@@ -1,0 +1,8 @@
+# Agile & Scrum Don't Work | Allen Holub In The Engineering Room Ep. 9
+En la entrevista con Dave Farley en *The Engineering Room*, Allen Holub critica fuertemente la implementación actual de Agile y Scrum en muchas organizaciones, argumentando que estos métodos se han distorsionado respecto a sus orígenes. Según Holub, Agile ha perdido su esencia original, y lo que muchas empresas practican hoy en día es simplemente una versión superficial o mal aplicada de Scrum, más centrada en cumplir con certificaciones y vender servicios que en los principios fundamentales de Agile.
+
+Una de las principales quejas de Holub es que Scrum ha sido comercializado como una solución rígida, lo cual está en contradicción con la adaptabilidad que Agile propone. Critica el enfoque en reuniones, métricas y estimaciones que, según él, no aportan valor real y a menudo se utilizan como mecanismos para ejercer control sobre los desarrolladores. También menciona que muchas organizaciones aplican Scrum de manera mecanicista, perdiendo de vista la necesidad de empoderar a los equipos y fomentar el liderazgo sobre la gestión tradicional.
+
+Otro punto importante es su rechazo a las métricas como una herramienta para evaluar el rendimiento de los desarrolladores. Holub sostiene que las métricas tienden a ser manipuladas por los gerentes y distorsionan el propósito del trabajo. En su opinión, se debería fomentar la intuición y el liderazgo en lugar de depender de sistemas rígidos y cuantificables que no reflejan la realidad del desarrollo de software.
+
+Holub considera que Agile y Scrum se han transformado en productos comerciales alejados de sus principios originales, y que su aplicación mecánica ha hecho más daño que bien al desarrollo de software en muchas organizaciones.
