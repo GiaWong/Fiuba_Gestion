@@ -7,5 +7,6 @@ __Jefe de Tp__: Marcelo Schenone
 
 __Correctora para el Tp Grupal__: Maria Pilar Gaddi 
 
+__Trabajo Práctico__: [Enlace al Repositorio](https://github.com/franciscoL0pez/Tp_Gestion_Good_Reads)
 
 ---
