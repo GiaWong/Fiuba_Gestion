@@ -1,0 +1,5 @@
+# Entrevista de Frederic Laloux para el programa *Para Todos La 2* de TVE2
+
+Laloux presenta las ideas principales de su libro *Reinventar las organizaciones*. Explica cómo las organizaciones actuales, especialmente las empresas, pueden evolucionar hacia un modelo más humano y centrado en el bienestar de sus empleados y la sociedad. 
+
+Destaca cinco etapas de evolución organizacional, cada una caracterizada por una mentalidad particular (representada con colores como Rojo, Ámbar, Naranja, Verde y Teal). Laloux enfoca su análisis en la etapa Teal, en la que la organización opera como un "organismo vivo". En este modelo, las personas encuentran un propósito más profundo en su trabajo, se promueve la autogestión, y el liderazgo no es autoritario sino facilitador. Laloux enfatiza que este enfoque permite un desarrollo más auténtico y comprometido de los individuos, y plantea un cambio positivo no solo para las organizaciones, sino para la sociedad en general.
