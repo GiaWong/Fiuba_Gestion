@@ -1,5 +1,5 @@
 # Formalizando compromisos
- Del libro **"Construcción de Software: una mirada ágil"** de Nicolás Páez, explora cómo los compromisos, cuando se formalizan correctamente, pueden mejorar significativamente el desarrollo ágil de software al proporcionar claridad, confianza y predictibilidad en los proyectos. A continuación, te ofrezco un resumen detallado:
+ Del libro **"Construcción de Software: una mirada ágil"** de Nicolás Páez, explora cómo los compromisos, cuando se formalizan correctamente, pueden mejorar significativamente el desarrollo ágil de software al proporcionar claridad, confianza y predictibilidad en los proyectos:
 
 ---
 
