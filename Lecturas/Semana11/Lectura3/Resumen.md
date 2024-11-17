@@ -88,4 +88,3 @@ El documeneto analiza cómo las prácticas de computación verde pueden integrar
 ### **Conclusión**
 La computación verde en el desarrollo de software no solo reduce el impacto ambiental, sino que también promueve innovación, responsabilidad social y beneficios económicos. Adoptar estas prácticas es esencial para construir un futuro tecnológico sostenible.
 
-¿Te interesa explorar en detalle algún aspecto específico del documento?
